@@ -1,5 +1,6 @@
 # MetamorphicDSL-IDM1516
 
-Exercice on domain-specific languages that have different shapes (internal, external) 
+DSL Homework : develop a program in the DSL in three
+equivalent variants.
 
-Contributions by pull request 
+Wrote by Maxime Meunier.
