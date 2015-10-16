@@ -5,4 +5,4 @@ equivalent variants.
 
 I chose to use CSS language, and its use in the HTML and Javascript languages.
 
-Wrote by Maxime Meunier.
+@Author Maxime Meunier.
