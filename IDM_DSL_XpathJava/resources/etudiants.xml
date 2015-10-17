@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<etudiants>
+	<etudiant id="1">
+		<nom>Colliaux</nom>
+		<prenom>Matthieu</prenom>
+		<formation>MIAGE</formation>
+		<promotion>2016</promotion>
+	</etudiant>
+	<etudiant id="2">
+		<nom>Cocoual</nom>
+		<prenom>Corentin</prenom>
+		<formation>MIAGE</formation>
+		<promotion>2016</promotion>
+	</etudiant>
+	<etudiant id="3">
+		<nom>Poher</nom>
+		<prenom>Melissa</prenom>
+		<formation>MIAGE</formation>
+		<promotion>2016</promotion>
+	</etudiant>
+	<etudiant id="4">
+		<nom>Haidara</nom>
+		<prenom>Abdul</prenom>
+		<formation>MIAGE</formation>
+		<promotion>2016</promotion>
+	</etudiant>
+	<etudiant id="5">
+		<nom>Collet</nom>
+		<prenom>Robin</prenom>
+		<formation>MIAGE</formation>
+		<promotion>2016</promotion>
+	</etudiant>
+</etudiants>

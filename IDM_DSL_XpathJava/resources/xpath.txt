@@ -1,0 +1,6 @@
+Nom de l'étudiant avec l'ID 4
+/etudiants/etudiant[@id=4]/nom/text()
+
+Les prénoms de tous les étudiants
+/etudiants/etudiant/prenom/text()
+
