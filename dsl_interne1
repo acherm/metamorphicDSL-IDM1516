@@ -1,0 +1,14 @@
+// DSL Interne 1
+// HTML - Langage dédié à représenter les pages web
+// Le langage CSS peut etre directement utilisé en HTML grâce aux balises HTML 'style'
+
+<html style="margin:0; padding="0">
+	<meta>
+		// meta
+	</meta>
+	<body style="background-color: #FFF; font-family: Verdana, sans-serif; font-size: 100%;>
+		<h1 style="font-size: 200%;	color: navy; text-align: center;">
+			Exemple de DSL Interne
+		</h1>
+	</body>
+</html>
