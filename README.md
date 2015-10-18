@@ -6,7 +6,8 @@ Contributions by pull request
 
 
 
-Le but ici est de se servir du sh comme DSL externe.
+Le but ici est de se servir du sh comme DSL externe. 
+Voir le fichier ide.sh
 Les langagues utilisées pour en faire un DSL interne sont : php et javascript (node).
 
 # Utilisation de : php-shell-wrapper
@@ -16,7 +17,7 @@ https://github.com/adambrett/php-shell-wrapper
 En plus : Dans l'index.php, j'ai commanté une troisième commande 'ls', il suffit de décommenter les lignes commenter pour la voir fonctionner.
 
 
-#Utilisation de : shelljs
+# Utilisation de : shelljs
 Trouvé ici :
 https://www.npmjs.com/package/shelljs
 Pour lancer le programme : `node app.js`
