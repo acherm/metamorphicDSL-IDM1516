@@ -1,0 +1,21 @@
+digraph gcd {
+    a [label="start"];
+    b [label="A = 0 or B = 0"];
+    c [label="A = 0"];
+    d [label="B = 0"];
+    e [label="A >= B"];
+    f [label="A = A - B"];
+    g [label="swap A <-> B"];
+    h [label="end"];
+
+    a -> b;
+    b -> c [label="Yes"];
+    b -> d [label="No"];
+    d -> e [label="No"];
+    e -> f [label="Yes"];
+    f -> e;
+    e -> g [label="No"];
+    g -> d;
+    d -> h [label="Yes"];
+    c -> h;
+}
