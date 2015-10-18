@@ -1,0 +1,11 @@
+---
+# Now,We create an object employe in YAML
+nom: Noumi
+prenom: Paola
+nationalite: francaise
+age: 22
+lieudetravail: ISTIC
+activite: Danser
+
+
+
