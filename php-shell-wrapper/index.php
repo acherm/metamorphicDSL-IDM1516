@@ -8,13 +8,13 @@ use AdamBrett\ShellWrapper\Runners\Exec;
 $shell = new Exec();
 
 $command   = new Command('echo');
-$command->addParam(new Param('Saviez-vous que les fourmis ne sont parfois paresseuses ?'));
+$command->addParam(new Param('Bonjour'));
 $shell->run($command);
 
 
 $shell2 = new Exec();
 $command2   = new Command('echo');
-$command2->addParam(new Param('Saviez-vous que les fourmis ne sont parfois paresseuses ?'));
+$command2->addParam(new Param('Saviez-vous que les fourmis sont parfois paresseuses ?'));
 $shell2->run($command2);
 
 
