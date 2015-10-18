@@ -8,5 +8,8 @@ Contributions by pull request
 CSS - Langage dédié à la présentation de contenu web
 
 ## DSL Interne
-HTML - Langage dédié à représenter les pages web. Le langage CSS peut etre directement utilisé en HTML grâce aux attributs HTML 'style'.
-Javascript - Langage orienté objet à prototype pour le web. Le langage JS peut manipuler le CSS d'un element du DOM grace à la proprieté 'style' d'un element.
+HTML - Langage dédié à représenter les pages web. 
+Le langage CSS peut etre directement utilisé en HTML grâce aux attributs HTML 'style'.
+
+Javascript - Langage orienté objet à prototype pour le web. 
+Le langage JS peut manipuler le CSS d'un element du DOM grace à la proprieté 'style' d'un element.
