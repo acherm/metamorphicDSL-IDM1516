@@ -1,5 +1,11 @@
 # MetamorphicDSL-IDM1516
 
-Exercice on domain-specific languages that have different shapes (internal, external) 
+3 example of JSON
 
-Contributions by pull request 
+2 intern example inside java and python
+
+and 1 simple json file
+
+They all came end in the same result
+
+Nb: The java file use a json lib
