@@ -1,5 +1,8 @@
 # MetamorphicDSL-IDM1516
 
-Exercice on domain-specific languages that have different shapes (internal, external) 
+DSL Homework : develop a program in the DSL in three
+equivalent variants.
 
-Contributions by pull request 
+I chose to use CSS language, and its use in the HTML and Javascript languages.
+
+@Author Maxime Meunier.
