@@ -3,7 +3,14 @@
 
 from lxml import etree
 
+tree = etree.parse("../resources/etudiants.xml")
 
-tree = etree.parse("./resources/etudiants.xml")
-for etudiant in tree.xpath("/etudiants/etudiant[@id=4]/nom/text()"):
-    print(etudiant.text)
+#Nom de l'étudiant avec l'id 4
+for etudiant in tree.xpath("/etudiants/etudiant[@id=4]/nom"):
+    print("Nom étudiant avec l'id 4 : "+etudiant.text)
+    
+print("============================================================")
+#Nom de l'étudiant avec l'id 4
+print("Prénoms de tous les étudiants")
+for etudiant in tree.xpath("/etudiants/etudiant/prenom"):
+    print("Prénom : "+etudiant.text)
