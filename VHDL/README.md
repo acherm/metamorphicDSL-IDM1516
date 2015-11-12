@@ -1,4 +1,4 @@
-Le language VHDL permet de décrire le comportement
+Le langage VHDL permet de décrire le comportement
 de composants électroniques. Des simulateurs, comme
 ghdl, permettent d'effectuer des tests afin de 
 s'assurer que le composant décrit se comporte bien 
