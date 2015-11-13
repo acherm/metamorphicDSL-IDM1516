@@ -1,0 +1,13 @@
+{
+    "name": "Rennes",
+    "mayor": {
+        "lastName": "APPERE",
+        "firstName": "Nathalie"
+    },
+    "postalCodes": [
+        "35000",
+        "35200",
+        "35700"
+    ],
+    "inhabitants": 207178
+}
