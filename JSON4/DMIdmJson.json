@@ -1,0 +1,4 @@
+{
+  "DCComics" : [{"Batman" : { "nom" : "Bruce Wayne" }}, {"Superman" : { "nom" : "Clark Kent"}}],
+  "Marvel" : [{"Ironman" : { "nom" : "Tony Stark" }}, {"Captain America" : { "nom" : "Steve Rogers" }}]
+}
