@@ -1,0 +1,42 @@
+.text-area {
+    -fx-background-color: transparent;
+    -fx-text-fill: linear-gradient(red, darkred);
+    -fx-text-alignment: center;
+    -fx-effect: dropshadow(gaussian, black, 15, 0.25, 0, 0);
+    -fx-display-caret: false;
+}
+
+.text-area .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+.text-area .scroll-pane .content{
+    -fx-background-color: transparent;
+}
+
+.text-area *.text {
+    -fx-text-alignment: center;
+}
+
+.basic-font {
+    -fx-text-alignment: center;
+    -fx-font: normal bold 60pt sans-serif;
+}
+
+.basic-small-font {
+    -fx-text-alignment: center;
+    -fx-font: normal bold 30pt sans-serif;
+}
+
+.basic-very-small-font {
+    -fx-text-alignment: center;
+    -fx-font: normal italic 10pt sans-serif;
+}
+.vbox {
+    -fx-background-color: rgb(38, 38, 38);
+}

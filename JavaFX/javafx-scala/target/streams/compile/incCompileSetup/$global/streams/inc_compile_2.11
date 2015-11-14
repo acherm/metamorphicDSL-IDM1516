@@ -1,0 +1,301 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/Controller.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$1.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$11$$anon$12$$anon$2$$anon$3.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$11$$anon$12$$anon$2.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$11$$anon$12.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$11.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$4.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$5.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$6$$anon$9.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$6.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$7$$anon$10.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$7.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$8.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anonfun$1.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anonfun$2.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$delayedInit$body.class
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont.class
+binary dependencies:
+8 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> /home/adra/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> /home/adra/.ivy2/cache/org.scalafx/scalafx_2.11/jars/scalafx_2.11-8.0.60-R9.jar
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> /opt/jdk1.8.0_60/jre/lib/ext/jfxrt.jar
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> /opt/jdk1.8.0_60/jre/lib/rt.jar
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/.ivy2/cache/org.scalafx/scalafx_2.11/jars/scalafx_2.11-8.0.60-R9.jar
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /opt/jdk1.8.0_60/jre/lib/ext/jfxrt.jar
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /opt/jdk1.8.0_60/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> hello.Controller
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$1
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$11
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$11$$anon$12
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$11$$anon$12$$anon$2
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$11$$anon$12$$anon$2$$anon$3
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$4
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$5
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$6
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$6$$anon$9
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$7
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$7$$anon$10
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anon$8
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anonfun$1
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$$anonfun$2
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello.ScalaFXFont$delayedInit$body
+used names:
+154 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> ::
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> <init>
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> ==
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> AnyRef
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> Controller
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> Font
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> Nil
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> Text
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> TextArea
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> Unit
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> bf
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> control
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> current_fonts
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> current_fonts_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> done
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> ex
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> fonts
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> fx
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> getClass
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> getResource
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> head
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> hello
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> immutable
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> loadFont
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> requestFocus
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> scala
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> scalafx
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> scene
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> setFont
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> sf
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> sfxText2jfx
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> sfxTextArea2jfx
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> str
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> tail
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> text
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> toExternalForm
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> use
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> yours
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> $anon
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> <init>
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Always
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> BooleanProperty
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Center
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Color
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Controller
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> DarkGray
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> DarkRed
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> DropShadow
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> HBox
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Includes
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Insets
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> JFXApp
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> KeyEvent
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> LinearGradient
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> MouseEvent
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> ObservableBuffer
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Pos
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> PrimaryStage
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Priority
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Red
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> ScalaFXFont
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Scene
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Seq
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> StageStyle
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Stops
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> Text
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> TextArea
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> UNIFIED
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> VBox
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> White
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> add
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> alignment_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> application
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> apply
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> beans
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> blackbox
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> changeFx
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> children_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> collection
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> collections
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> color_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> control
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> controller
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> done_txt
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> effect
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> effect_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> eventClosureWrapperWithParam
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> example
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> fill_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> fx_txt
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> geometry
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> getClass
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> getResource
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hello
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hgrow_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> initStyle
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> input
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> jfxMouseEvent2sfx
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> layout
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> macros
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> observableBuffer2ObservableList
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> padding_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> paint
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> property
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> radius_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> reflect
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> rgb
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> root_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> scala
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> scala_txt
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> scalafx
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> scene
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> scene_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> setOnMouseClicked
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> sfxText2jfx
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> spread_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> stage
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> stage_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> styleClass
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> stylesheets
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> text
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> text_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> title_=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> toExternalForm
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> use
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$1
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$10
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$11
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$12
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$13
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$14
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$15
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$16
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$17
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$18
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$19
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$2
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$20
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$21
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$22
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$23
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$24
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$25
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$26
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$27
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$28
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$3
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$4
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$5
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$6
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$7
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$8
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> x$9
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> yourText
+product stamps:
+18 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/Controller.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$1.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$11$$anon$12$$anon$2$$anon$3.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$11$$anon$12$$anon$2.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$11$$anon$12.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$11.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$4.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$5.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$6$$anon$9.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$6.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$7$$anon$10.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$7.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anon$8.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anonfun$1.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$$anonfun$2.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont$delayedInit$body.class -> lastModified(1447519129000)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes/hello/ScalaFXFont.class -> lastModified(1447519129000)
+source stamps:
+2 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> hash(dc359717d619ad1b0688d0d6d6529099ef6bc5c3)
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> hash(1e6466d7b2019a4a5b0fe45b60bb52502b600d3e)
+binary stamps:
+4 items
+/home/adra/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617866000)
+/home/adra/.ivy2/cache/org.scalafx/scalafx_2.11/jars/scalafx_2.11-8.0.60-R9.jar -> lastModified(1443770190000)
+/opt/jdk1.8.0_60/jre/lib/ext/jfxrt.jar -> lastModified(1444989181000)
+/opt/jdk1.8.0_60/jre/lib/rt.jar -> lastModified(1444989181000)
+class names:
+4 items
+/home/adra/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Double
+/home/adra/.ivy2/cache/org.scalafx/scalafx_2.11/jars/scalafx_2.11-8.0.60-R9.jar -> scalafx.scene.text.Text
+/opt/jdk1.8.0_60/jre/lib/ext/jfxrt.jar -> javafx.scene.paint.Stop
+/opt/jdk1.8.0_60/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBVPkcgAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPxUd3V0AAZub3RpZnlzcQB+AAyj110ndAAFZm9udHNzcQB+AAxVmecGdAAEd2FpdHNxAH4ADDp9voJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAM117DGnQADWN1cnJlbnRfZm9udHNzcQB+AAxSl8XDdAAGZXF1YWxzc3EAfgAMrRbNZnQADGFzSW5zdGFuY2VPZnNxAH4ADCSKQ6p0AAxzeW5jaHJvbml6ZWRzcQB+AAw9VcUNdAACZnhzcQB+AAywlUSudAANJGlzSW5zdGFuY2VPZnNxAH4ADDfN//90AAV5b3Vyc3NxAH4ADKl5E810AAlub3RpZnlBbGxzcQB+AAzH7RCedAAMaXNJbnN0YW5jZU9mc3EAfgAMJEQYXnQABjxpbml0PnNxAH4ADIURVQZ0AApDb250cm9sbGVyc3EAfgAMjagQlHQAAmV4c3EAfgAMs/g4AXQACGNoYW5nZUZ4c3EAfgAMyi6CYnQAAj09c3EAfgAMdN66TnQABWNsb25lc3EAfgAMioJ4tXQABXNjYWxhc3EAfgAMzoWJiHQAA3VzZXNxAH4ADCfCTI90AARkb25lc3EAfgAMrO1RDnQACHRvU3RyaW5nc3EAfgAMFTH8u3QAAiE9c3EAfgAMSaQJ8nQACGdldENsYXNzc3EAfgAMLh/XjXQAAm5lc3EAfgAMyuEjyHQAAmVxc3EAfgAMe/vhIXQAAiMjc3EAfgAMdiaYYnQACGZpbmFsaXplc3EAfgAMOJOJ/HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AU3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEGhlbGxvLkNvbnRyb2xsZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGsAcHNxAH4AcHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBTTAAJaW5oZXJpdGVkcQB+AFNMAAdwYXJlbnRzcQB+AFN4cQB+AHRzcQB+AGsAcHNxAH4AcHVxAH4ATgAAAABzcQB+AGsAcHNxAH4AcHVxAH4ATgAAAABzcQB+AGsAcHNxAH4AcHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ac3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ac3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AkHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AkXNxAH4AhHQAA0FueXNxAH4AiHNxAH4Ai3VxAH4AjgAAAAJzcQB+AJBxAH4ANXEAfgCXdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFaGVsbG9zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVEG3PwRdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATC9ob21lL2FkcmEvd29ya3NwYWNlL2lkbS9wcl90ZC9KYXZhRlgvamF2YWZ4LXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTcNZcX1hmtGwaI0NbWUpCZ72vFww==
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCs1aZgAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNDIrdh0AAZub3RpZnlzcQB+AAw93+JgdAAJc2NhbGFfdHh0c3EAfgAM7enX1XQABXN0YWdlc3EAfgAMPDDN2HQABHdhaXRzcQB+AAxzGqWRdAANJGFzSW5zdGFuY2VPZnNxAH4ADIC+lal0AAZlcXVhbHNzcQB+AAzEJWqNdAAMYXNJbnN0YW5jZU9mc3EAfgAMtnJdVnQACHlvdXJUZXh0c3EAfgAMQM7CUXQADHN5bmNocm9uaXplZHNxAH4ADEEIqG10AAhkb25lX3R4dHNxAH4ADPIRLi50AA0kaXNJbnN0YW5jZU9mc3EAfgAMsdU3MXQABmZ4X3R4dHNxAH4ADIFeT0p0AARtYWluc3EAfgAMrZTMp3QACW5vdGlmeUFsbHNxAH4ADJRvNAN0AAxpc0luc3RhbmNlT2ZzcQB+AAyFiI4TdAALU2NhbGFGWEZvbnRzcQB+AAy02keLdAACPT1zcQB+AAxo0qDsdAAFY2xvbmVzcQB+AAxJucwodAADdXNlc3EAfgAMbSGtL3QACmNvbnRyb2xsZXJzcQB+AAyEiC4OdAAIdG9TdHJpbmdzcQB+AAy5hmQpdAACIT1zcQB+AAzqGPNQdAAIZ2V0Q2xhc3NzcQB+AAxD0imYdAAHZXhhbXBsZXNxAH4ADLPxa7J0AAJuZXNxAH4ADLAg6e90AARpbml0c3EAfgAMUQVhOXQACnBhcmFtZXRlcnNzcQB+AAySRnmjdAACZXFzcQB+AAy1IhCqdAAHc3RvcEFwcHNxAH4ADLpTqNV0AAtkZWxheWVkSW5pdHNxAH4ADDAcgHp0AAIjI3NxAH4ADDDDJn10AAhmaW5hbGl6ZXNxAH4ADLJrKOl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABFoZWxsby5TY2FsYUZYRm9udHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHJ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHEAcHNxAH4AdnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHpzcQB+AHEAcHNxAH4AdnVxAH4AVAAAAABzcQB+AHEAcHNxAH4AdnVxAH4AVAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AWnEAfgBjdXEAfgBkAAAAAHNxAH4AZgBxAH4AJ3VxAH4AaQAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB5dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AeXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AId4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AGx0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AI5bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHlzcQB+AI10AAVBcnJheXEAfgCTdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AI10AAZTdHJpbmdzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3EAfgCZdAAEamF2YXNxAH4AmXQABGxhbmdxAH4AnnNxAH4AcQBwc3EAfgB2dXEAfgCyAAAABHNxAH4AjXQABkpGWEFwcHNxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJl0AAdzY2FsYWZ4c3EAfgCZdAALYXBwbGljYXRpb25xAH4AnnNxAH4AjXQAC0RlbGF5ZWRJbml0cQB+AJNzcQB+AI10AAZPYmplY3RxAH4AtnNxAH4AjXQAA0FueXEAfgCTdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFaGVsbG9zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVEG3PwRdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATC9ob21lL2FkcmEvd29ya3NwYWNlL2lkbS9wcl90ZC9KYXZhRlgvamF2YWZ4LXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQeZGbXsgGaSlsP5Ftgu1JQK2ANPg==
+external apis:
+0 items
+source infos:
+2 items
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala -> 
+AAAAAAAAAAA=
+/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUPcxtup1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL2FkcmEvd29ya3NwYWNlL2lkbS90ZF9kc2wvamF2YWZ4LXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUPfEwX51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL2FkcmEvd29ya3NwYWNlL2lkbS90ZF9kc2wvamF2YWZ4LXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUPfFOOt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL2FkcmEvd29ya3NwYWNlL2lkbS90ZF9kc2wvamF2YWZ4LXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUQaiGdB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL2FkcmEvd29ya3NwYWNlL2lkbS90ZF9kc2wvamF2YWZ4LXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUQapOuR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9ob21lL2FkcmEvd29ya3NwYWNlL2lkbS90ZF9kc2wvamF2YWZ4LXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUQbc/BF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATC9ob21lL2FkcmEvd29ya3NwYWNlL2lkbS9wcl90ZC9KYXZhRlgvamF2YWZ4LXNjYWxhL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

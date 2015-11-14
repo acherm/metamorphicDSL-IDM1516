@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="scalafx-hello-world"
+		module="scalafx-hello-world_2.11"
+		revision="8.0.60-R9"
+		conf="pom"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20151114173844"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
