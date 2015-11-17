@@ -1,0 +1,16 @@
+IN here you will find an implementation of a simple programme which draw a square and a cross within.
+It uses the internal bsd Logo (through UCBLogo), an external bsd made in python language and lastly an external bsd made in java.
+
+You'll need to have java installed, python version 2.7.X at least and finally the unixpackage USBLogo which you can downaload and install from standard repository and built in package manager with commands such as 
+
+sudo yum install usblogo
+
+or
+
+sudo apt-get install usblogo
+
+or anything else you use.
+
+to run the programs, make sure you have execution rights over files "run_java" "run_python" and "run_logo" (in the LOGO directory write the following command : "chmod u+x run*")
+
+then simply run those 3 files to get a display.
