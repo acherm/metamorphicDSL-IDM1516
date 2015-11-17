@@ -1,5 +1,5 @@
 IN here you will find an implementation of a simple programme which draw a square and a cross within.
-It uses the internal bsd Logo (through UCBLogo), an external bsd made in python language and lastly an external bsd made in java.
+It uses the internal dsl Logo (through UCBLogo), an external dsl made in python language and lastly an external dsl made in java.
 
 You'll need to have java installed, python version 2.7.X at least and finally the unixpackage USBLogo which you can downaload and install from standard repository and built in package manager with commands such as 
 
