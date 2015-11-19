@@ -1,0 +1,3 @@
+REN file1 newName
+CD folder
+DEL filefolder
