@@ -1,0 +1,16 @@
+right 90
+fd 100
+left 90
+fd 100
+left 90
+fd 100
+left 90
+fd 100
+left 135
+fd sqrt 20000
+left 135
+fd 100
+left 135
+fd sqrt 20000
+wait 180
+bye
