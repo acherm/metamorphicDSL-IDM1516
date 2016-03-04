@@ -1,0 +1,16 @@
+graph model {
+	top;
+	v1;
+	v2;
+	v3;
+	v4;
+	v5;
+	bottom;
+	top -> v1 -> v2;
+	top -> v3;
+	top -> v4;
+	v2 -> bottom;
+	v3 -> v5;
+	v4 -> v5;
+	v5 -> bottom;
+}
