@@ -1,0 +1,18 @@
+{
+    "query": {
+        "bool": {
+            "must": [
+                {
+                    "term": {
+                        "title": "Example"
+                    }
+                },
+                {
+                    "term": {
+                        "author": "fracma"
+                    }
+                }
+            ]
+        }
+    }
+}
