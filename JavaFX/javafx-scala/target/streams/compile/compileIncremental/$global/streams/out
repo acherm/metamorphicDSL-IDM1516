@@ -1,0 +1,61 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set(/home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/Controller.scala, /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/ScalaFXFont.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala, /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/Controller.scala, /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/ScalaFXFont.scala, /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala, /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/Controller.scala, /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/ScalaFXFont.scala, /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala, /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 2 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6e48b96f, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/opt/jdk1.8.0_60/jre/lib/resources.jar:/opt/jdk1.8.0_60/jre/lib/rt.jar:/opt/jdk1.8.0_60/jre/lib/sunrsasign.jar:/opt/jdk1.8.0_60/jre/lib/jsse.jar:/opt/jdk1.8.0_60/jre/lib/jce.jar:/opt/jdk1.8.0_60/jre/lib/charsets.jar:/opt/jdk1.8.0_60/jre/lib/jfr.jar:/opt/jdk1.8.0_60/jre/classes:/home/adra/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/target/scala-2.11/classes:/home/adra/.ivy2/cache/org.scalafx/scalafx_2.11/jars/scalafx_2.11-8.0.60-R9.jar:/home/adra/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 5.448194942 s[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, scala_txt, stage, wait, $asInstanceOf, equals, asInstanceOf, yourText, synchronized, done_txt, $isInstanceOf, fx_txt, main, notifyAll, isInstanceOf, ScalaFXFont, ==, clone, use, controller, toString, !=, getClass, example, ne, init, parameters, eq, stopApp, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/Controller.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, fonts, wait, $asInstanceOf, current_fonts, equals, asInstanceOf, synchronized, fx, $isInstanceOf, yours, notifyAll, isInstanceOf, <init>, Controller, ex, changeFx, ==, clone, scala, use, done, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mThe following modified names cause invalidation of /home/adra/workspace/idm/pr_td/JavaFX/javafx-scala/src/main/scala/hello/ScalaFXFont.scala: Set(<init>, Controller, changeFx, scala, use, getClass)[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/Controller.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/Controller.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/Controller.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/Controller.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/Controller.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, fonts, wait, $asInstanceOf, current_fonts, equals, asInstanceOf, synchronized, fx, $isInstanceOf, yours, notifyAll, isInstanceOf, <init>, Controller, ex, changeFx, ==, clone, scala, use, done, toString, !=, getClass, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mInvalidating /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/ScalaFXFont.scala...[0m
+[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/ScalaFXFont.scala...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/ScalaFXFont.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/ScalaFXFont.scala)[0m
+[0m[[0mdebug[0m] [0mThe /home/adra/workspace/idm/td_dsl/javafx-scala/src/main/scala/hello/ScalaFXFont.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m	notify, scala_txt, stage, wait, $asInstanceOf, equals, asInstanceOf, yourText, synchronized, done_txt, $isInstanceOf, fx_txt, main, notifyAll, isInstanceOf, ScalaFXFont, ==, clone, use, controller, toString, !=, getClass, example, ne, init, parameters, eq, stopApp, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

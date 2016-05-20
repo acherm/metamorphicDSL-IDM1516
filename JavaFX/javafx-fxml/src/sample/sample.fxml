@@ -1,0 +1,33 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.paint.Color?>
+
+<?import javafx.scene.layout.Background?>
+<?import javafx.scene.layout.BackgroundFill?>
+<?import javafx.scene.paint.Paint?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TextArea?>
+<VBox fx:controller="sample.Controller"
+      xmlns:fx="http://javafx.com/fxml" alignment="center" style="-fx-background-color: rgb(38,38,38)" >
+    <HBox alignment="center">
+        <padding><Insets top="50" right="80" bottom="50" left="80"/></padding>
+        <Text fx:id="txt" style="-fx-font: normal bold 60pt sans-serif; -fx-fill:linear-gradient(RED 0%, DARKRED 100%);" >
+            Done in
+        </Text>
+        <Text fx:id="fx" style="-fx-font: bold italic 60pt sans-serif; -fx-fill:linear-gradient(WHITE 0%, DARKGREY 100%); -fx-effect: dropshadow(gaussian, DARKGREY, 15, 0.25, 0, 0)"
+              onMouseClicked="#changeFx">
+            FX
+        </Text>
+        <Text fx:id="ml" style="-fx-font: normal bold 60pt sans-serif; -fx-fill:linear-gradient(RED 0%, DARKRED 100%);">
+            ml
+        </Text>
+    </HBox>
+    <Text style="-fx-font: normal italic 10pt sans-serif; -fx-text-alignment: center; -fx-fill:linear-gradient(WHITE 0%, DARKGREY 100%); -fx-effect: dropshadow(gaussian, DARKGREY, 15, 0.25, 0, 0)">Click on the "fx" to switch font, then type anything you want !</Text>
+    <Text fx:id="example"  style="-fx-font: normal bold 30pt sans-serif;" >
+        The quick brown fox jumps overs the lazy dog
+    </Text>
+    <TextArea fx:id="yourText">
+
+    </TextArea>
+</VBox>
