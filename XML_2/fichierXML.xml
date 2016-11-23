@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<equipe>
+	<nom>Rennes Volley 35</nom>
+	<ville>Rennes</ville>
+	<salle>Colette Besson</salle>
+	<joueurs>
+		<joueur id="0">
+			<numero_licence>1852634</numero_licence>
+			<nom>Juhkami</nom>
+			<prenom>Martti</prenom>
+			<age>27</age>
+			<taille>195</taille>
+			<poste>Attaquant/réceptionneur</poste>
+			<numero_maillot>6</numero_maillot>
+		</joueur>
+		<joueur id="1">
+			<numero_licence>1859641</numero_licence>
+			<nom>Ragondet</nom>
+			<prenom>Olivier</prenom>
+			<age>24</age>
+			<taille>189</taille>
+			<poste>Attaquant/réceptionneur</poste>
+			<numero_maillot>9</numero_maillot>
+		</joueur>
+		<joueur id="2">
+			<numero_licence>1795842</numero_licence>
+			<nom>Ah_Kong</nom>
+			<prenom>Rodney Ken</prenom>
+			<age>28</age>
+			<taille>204</taille>
+			<poste>Central</poste>
+			<numero_maillot>12</numero_maillot>
+		</joueur>
+		<joueur id="3">
+			<numero_licence>1685472</numero_licence>
+			<nom>Hardy-Dessources</nom>
+			<prenom>Gérald</prenom>
+			<age>32</age>
+			<taille>197</taille>
+			<poste>Central</poste>
+			<numero_maillot>3</numero_maillot>
+		</joueur>
+		<joueur id="4">
+			<numero_licence>1574856</numero_licence>
+			<nom>Berrios</nom>
+			<prenom>Gregory</prenom>
+			<age>36</age>
+			<taille>182</taille>
+			<poste>Libéro</poste>
+			<numero_maillot>2</numero_maillot>
+		</joueur>
+		<joueur id="5">
+			<numero_licence>1764852</numero_licence>
+			<nom>Miseikis</nom>
+			<prenom>Arvaydas</prenom>
+			<age>28</age>
+			<taille>200</taille>
+			<poste>Pointu</poste>
+			<numero_maillot>5</numero_maillot>
+		</joueur>
+		<joueur id="6">
+			<numero_licence>1436584</numero_licence>
+			<nom>Toobal</nom>
+			<prenom>Kert</prenom>
+			<age>36</age>
+			<taille>189</taille>
+			<poste>Passeur</poste>
+			<numero_maillot>1</numero_maillot>
+		</joueur>
+	</joueurs>
+	<entraineurs>
+		<entraineur id="0">
+			<nom>Matijasevic</nom>
+			<prenom>Nikola</prenom>
+			<poste>Entraîneur</poste>
+		</entraineur>
+		<entraineur id="1">
+			<nom>Bouvet</nom>
+			<prenom>Olivier</prenom>
+			<poste>Entraîneur Adjoint</poste>
+		</entraineur>
+	</entraineurs>
+	<staffs>
+		<staff id="0">
+			<nom>Mativet</nom>
+			<prenom>Thibault</prenom>
+			<poste>Co-président</poste>
+		</staff>
+		<staff id="1">
+			<nom>Mollier</nom>
+			<prenom>Stéphane</prenom>
+			<poste>Directeur Sportif</poste>
+		</staff>
+		<staff id="2">
+			<nom>Convenant</nom>
+			<prenom>Didier</prenom>
+			<poste>Manager</poste>
+		</staff>
+		<staff id="3">
+			<nom>Paumier</nom>
+			<prenom>Karenn</prenom>
+			<poste>Chargée de communication</poste>
+		</staff>
+	</staffs>
+</equipe>
