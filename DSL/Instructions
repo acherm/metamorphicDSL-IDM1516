@@ -1,0 +1,5 @@
+Dans le dossier 'Externe', vous trouverez le fichier Math.tex avec le code LaTex pour générer un PDF contenant une phrase avec une formule mathématique.
+J'ai utilisé le logiciel Kile pour l'édition, la compilation et la génération du PDF (Math.pdf)
+
+Dans le dossier 'Interne', vous trouverez un fichier index.html contenant la même phrase avec la formule mathématique, cette fois affichée dans un navigateur.
+
